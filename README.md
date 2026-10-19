@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Melita 👋
 
-<!--
-**Melitaalva960/Melitaalva960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatician** with **5 years of hands-on NGS experience** and an
+**MSc in Bioinformatics & Computational Biology** from University College Cork.
 
-Here are some ideas to get you started:
+I understand genomics data from sample to result: I spent five years preparing and
+quality-checking sequencing libraries at MedGenome (Bangalore), and now I build the
+pipelines that analyse the data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 What I work on
+- Comparative genomics and microbiome analysis (MAGs, gene screening, pangenome patterns)
+- Reproducible NGS workflows with Snakemake / Nextflow
+- Linking wet-lab quality to downstream data quality
+
+### 📌 Featured project
+**[blautia-hmo-gene-screen](https://github.com/Melitaalva960/blautia-hmo-gene-screen)**:
+screening 3,081 *Blautia* genomes for genes that use human milk oligosaccharides and
+infant-formula prebiotics (CheckM2 · GTDB-Tk · tBLASTn · R · IQ-TREE 2).
+
+### 🛠️ Skills
+**Languages:** Python · R · Bash  
+**Bioinformatics:** BLAST+ · MAFFT · IQ-TREE 2 · CheckM2 · GTDB-Tk · QIIME2 · CAZy  
+**Workflows:** Snakemake · Conda · Git · GitHub Actions · HPC  
+**Wet lab:** NGS library prep · QC (Qubit, Bioanalyzer/TapeStation, qPCR) · Illumina sequencing
+
+### 📫 Contact
+📍 Cork, Ireland · open to bioinformatics and genomics roles  
